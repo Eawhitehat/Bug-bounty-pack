@@ -6,7 +6,6 @@ A list of useful tools to automate your bug bounty tasks.
 ```bash
 mkdir Bounty
 cd Bounty
-git clone https://github.com/danielmiessler/SecLists.git
 git clone https://github.com/1N3/IntruderPayloads.git
 git clone https://github.com/swisskyrepo/PayloadsAllTheThings.git
 git clone https://github.com/guelfoweb/knock.git
